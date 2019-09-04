@@ -1,2 +1,2 @@
 # mayaboyadzhieva.github.io
-Blog - my first steps in the development
+Blog - My first steps into the world of Software Development
